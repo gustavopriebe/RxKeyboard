@@ -2,7 +2,6 @@
 docs/
 /.build
 /Packages
-**/xcuserdata
 Pods/
 Carthage/
 Examples/**/Podfile.lock
