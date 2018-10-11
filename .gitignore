@@ -3,8 +3,6 @@ sourcekitten-output.json
 docs/
 /.build
 /Packages
-**/xcuserdata
-**/xcshareddata
 Pods/
 Carthage/
 Examples/**/Podfile.lock
