@@ -338,22 +338,6 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=appletvos*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=appletvsimulator*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=iphoneos*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=iphonesimulator*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_BUNDLE_IDENTIFIER = com.priebe.RxKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -386,22 +370,6 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=appletvos*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=appletvsimulator*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=iphoneos*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
-				);
-				"LD_RUNPATH_SEARCH_PATHS[sdk=iphonesimulator*]" = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.priebe.RxKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
